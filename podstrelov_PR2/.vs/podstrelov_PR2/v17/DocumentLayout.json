@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|c:\\users\\user\\desktop\\\u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u043F\u04403\\podstrelov_pr2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\matrixsortwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:matrixsortwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\matrixsortwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:matrixsortwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\arrayreorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:arrayreorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\arrayreorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:arrayreorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\arraysearchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:arraysearchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\arraysearchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:arraysearchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\stringtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:stringtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\stringtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:stringtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\numbertaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:numbertaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\numbertaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F570D6D-73AE-451D-9CFF-FF198FA038BA}|podstrelov_PR2.csproj|solutionrelative:numbertaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixSortWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MatrixSortWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MatrixSortWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MatrixSortWindow.xaml.cs",
+              "RelativeToolTip": "MatrixSortWindow.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:29:39.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixSortWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MatrixSortWindow.xaml",
+              "RelativeDocumentMoniker": "MatrixSortWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MatrixSortWindow.xaml",
+              "RelativeToolTip": "MatrixSortWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:29:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayReorderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArrayReorderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArrayReorderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArrayReorderWindow.xaml.cs",
+              "RelativeToolTip": "ArrayReorderWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:29:00.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrayReorderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArrayReorderWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayReorderWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArrayReorderWindow.xaml",
+              "RelativeToolTip": "ArrayReorderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:28:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArraySearchWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArraySearchWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArraySearchWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArraySearchWindow.xaml.cs",
+              "RelativeToolTip": "ArraySearchWindow.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:28:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArraySearchWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArraySearchWindow.xaml",
+              "RelativeDocumentMoniker": "ArraySearchWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\ArraySearchWindow.xaml",
+              "RelativeToolTip": "ArraySearchWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:27:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StringTaskWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\StringTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StringTaskWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\StringTaskWindow.xaml.cs",
+              "RelativeToolTip": "StringTaskWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:05:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StringTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\StringTaskWindow.xaml",
+              "RelativeDocumentMoniker": "StringTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\StringTaskWindow.xaml",
+              "RelativeToolTip": "StringTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:04:53.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NumberTaskWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\NumberTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NumberTaskWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\NumberTaskWindow.xaml.cs",
+              "RelativeToolTip": "NumberTaskWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:04:31.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NumberTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\NumberTaskWindow.xaml",
+              "RelativeDocumentMoniker": "NumberTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\NumberTaskWindow.xaml",
+              "RelativeToolTip": "NumberTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:04:13.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:03:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:03:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T07:02:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u0410\u0414\u041E \u0421\u0414\u0415\u041B\u0410\u0422\u042C\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C\\\u041F\u04203\\podstrelov_PR2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:02:51.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
